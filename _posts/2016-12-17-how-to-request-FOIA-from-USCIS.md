@@ -7,8 +7,6 @@ comments: true
 description: 3 Steps to request FOIA with USCIS using form G 639 to request immigration records
 ---
 
-###### For a sample filled g-639 form, leave a comment below (email will not be displayed), we will send you a sample.
-
 One aspect of the US immigration system is it's complex. And like many areas of law there are many nuances. Occasionally,
  you may run into situation where you don't have access to your own immigration documents or your employer is not
  willing to sharing them. Typically, not all employers share with employees their employer sponsored visas and green card
