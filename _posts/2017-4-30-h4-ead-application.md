@@ -1,7 +1,7 @@
 ---
 layout: post
 title: H4 EAD application, documents, premium processing in 2017 - Complete guide
-date: 2017-5-4
+date: 2017-5-7
 tags: H4-EAD
 comments: true
 description: Is your H4 EAD application right? Avoid errors and expensive($$$) job delays. Join 1000s of successful applicants who used this 100% accurate guide!
@@ -32,7 +32,7 @@ Even if you are currently not on H4 visa, but planning to change the status from
 ![H4-EAD-sample]({{ site.url }}assets/images/posts/h4-ead-sample.jpg)
 
 ## H4 EAD premium processing
-Even though H4 EAD application cannot be applied in premium processing, it can take advantage of the H1b premium processing in certain scenarios. H4 EAD application can be bundled with the spouse's H1b extension package. And when such primary H1b application is applied through premium processing, USCIS applies the premium processing to H4 EAD too. So, you can get results within 15 days along with H1b results. If you plan ahead, you can take advantage of this feature. You just have to work with the H1b employer's attorneys to include the EAD application.
+Even though H4 EAD application cannot be applied in premium processing, you can take advantage of the H1b premium processing in certain scenarios. H4 EAD application can be bundled with the spouse's H1b extension package. And when such primary H1b application is applied or upgraded to premium processing, USCIS extends the premium processing to the EAD application too. So, you can get results within 15 days along with H1b results. If you plan ahead, you can take advantage of this convenient option like many others do. But note that the process for such bundled application is slightly different than process described in this guide. So, work with your H1b employer to do the bundled the EAD application.
 
 ## H4 EAD Application fee
 $410 as of January 2017 (It used to be $380 earlier). Check the latest [USCIS filing fees](https://www.uscis.gov/forms/our-fees)
@@ -43,7 +43,7 @@ You would have to fill the [form I-765](http://www.uscis.gov/i-765) for requesti
 
 USCIS also offers a service to notify you electronically (email, text), when your form I-765 is accepted at their facility. This is an optional service. But if you want to use it then you would have to include the completed form [G-1145](http://www.uscis.gov/sites/default/files/files/form/g-1145.pdf).
 
-> To avoid unnecessary delays, make sure the form is signed. And it should also be accompanied by the correct fee. USCIS will reject the > application in either case. And you will have to refile with the issues fixed.
+> To avoid unnecessary delays, make sure the form is signed. And it should also be accompanied by the correct fee. USCIS will reject the  application in either case. And you will have to refile with the issues fixed.
 
 ## H4 EAD Documents checklist
 Find printer friendly [H4 EAD documents]({{ site.url }}posts/h4-ead-documents-checklist/) checklist
