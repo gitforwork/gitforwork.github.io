@@ -37,16 +37,79 @@ actively are involved in the operations of the enterprise.
 
 Regional Center Designation
 
-Developers makes an application to USCIS through form I-924 to designate a project as an EB-5 regional center. The application includes information about the geographical area and the types of businesses the regional center plans to invest. The application can include actual projects or hypothetical projects. Hypothetical project application should include supporting documents to demonstrate the job creation of the proposed regional center. The application for an actual project requires a description of the nature of the business, it's detailed business plan and details of employment generated.
+Developers makes an application to USCIS through form I-924 to designate a project as an EB-5 regional center. The application includes
+information about the geographical area and the types of businesses the regional center plans to invest. The application can include 
+actual projects or hypothetical projects. Hypothetical project application should include supporting documents to demonstrate the job
+creation of the proposed regional center. The application for an actual project requires a description of the nature of the business,
+it's detailed business plan and details of employment generated.
 
-Stats go here <>
-By states.
+We analyzed over 1000 USCIS designated regional centers and here is what we found,
+Number of regional centers by territory,
+
+# of regional centers | State/Territory 
+13	| Alabama
+1	| Alaska
+10	| Arizona
+6	| Arkansas
+223	| California
+18	| Colorado
+5	| Commonwealth of Northern Marianas Islands
+44	| Connecticut
+11	| Delaware
+23	| District of Columbia
+84	| Florida
+35	| Georgia
+3	| Guam
+15	| Hawaii
+4	| Idaho
+30	| Illinois
+24	| Indiana
+3	| Iowa
+1	| Island of Guam
+7	| Kansas
+10	| Kentucky
+17	| Louisiana
+3	| Maine
+31	| Maryland
+21	| Massachusetts
+11	| Michigan
+7	| Minnesota
+17	| Mississippi
+10	| Missouri
+2	| Montana
+5	| Nebraska
+24	| Nevada
+10	| New Hampshire
+85	| New Jersey
+9	| New Mexico
+107	| New York
+21	| North Carolina
+3	| North Dakota
+18	| Ohio
+12	| Oklahoma
+21	| Oregon
+68	| Pennsylvania
+7	| Puerto Rico
+10	| Rhode Island
+15	| South Carolina
+1	| South Dakota
+14	| Tennessee
+73	| Texas
+3	| U.S. Virgin Islands (USVI)
+7	| Utah
+1	| Vermont
+27	| Virginia
+59	| Washington
+11	| West Virginia
+20	| Wisconsin
+1	| Wyoming
+
 Top types of business.
 Number of terminated regional centers
 Where do the receipts go
 
 
-Regional center terminations
+## Regional center terminations
 
 USCIS terminates the EB-5 regional center designation to the projects for any of the following reasons, 
 
@@ -57,7 +120,7 @@ USCIS gives the regional center 30 days to furnish sufficient information and av
 
 USCIS also provides avenues for the terminated regional centers to appeal and get re approved for a Eb-5 regional center designation. 
 
-EB-5 Scams:
+## EB-5 Scams:
 
 It's important to note that even though USCIS designates a regional center, it does not gaurantee or endorse the activities of the center. It's also important to note that USCIS or any other government agency does not evaluate the quality of the projects. The resnposibility for due diligence of the regional center lies with the immigrant investor.
 Securities Exchange Commission (SEC) has in recent times expanded the monitoring the EB-5 program and they issued an active fraud alert warning to the investors. 
