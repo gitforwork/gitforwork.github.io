@@ -46,8 +46,9 @@ it's detailed business plan and details of employment generated.
 We analyzed over 1000 USCIS designated regional centers and here is what we found,
 Number of regional centers by territory,
 
+
 # of regional centers | State/Territory 
---------------------- | ----------------
+------------------- | --------------
 13	| Alabama
 1	| Alaska
 10	| Arizona
@@ -104,6 +105,8 @@ Number of regional centers by territory,
 11	| West Virginia
 20	| Wisconsin
 1	| Wyoming
+
+
 
 Top types of business.
 Number of terminated regional centers
