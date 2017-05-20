@@ -2,7 +2,7 @@
 layout: post
 title: EB5 regional center - 1300+ centers data driven statistics
 date: 2017-5-20
-tags: Eb5 regional-center
+tags: EB-5-visa regional-center
 comments: true
 description: 9000+ visas awarded annually to regional center EB-5 investors. Over $5 billion invested through the regional centers to generate over 150K full time jobs yearly. Top 5 states pull in 65% of the total investments.
 ---
