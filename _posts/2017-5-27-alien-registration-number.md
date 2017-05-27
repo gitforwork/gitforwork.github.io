@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alien registration number - 3 ways to get your social security number of immigration
+title: Alien registration number - 4 ways to get your social security number of immigration
 date: 2017-5-27
 tags: USCIS
 comments: true
@@ -12,17 +12,28 @@ Alien registration number is an unique 7-9 digit unique number assigned by USCIS
 Example A-numbers look like, 
 0X0-0X0-0X0
 
+![alien registration number]({{ site.url }}assets/images/posts/alien-registration-number-EAD.jpg)
+
+
 Typically, USCIS assigns a A-number for immigrants applying for permanent residency or green card. It is also assigned in other situations like at the time of applying for employment authorization document (EAD). The alien registration number is unique to an individual and assigned A# is carried all throughout the lifetime and beyond of the immigrant. Hence, it's almost like a social security number for immigration. USCIS archives all the immigration documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number. 
 
 ## How do I find my alien registration number?
 
 There are a few ways to get your alien registration number. 
 
+### Green card
+
+If you have a green card, your A-number will be printed on the card. Some old cards may have it printed on the back of the card, while most of the cards have it printed on the front of the card.
+
+![alien registration number]({{ site.url }}assets/images/posts/alien-registration-number-green-card.jpg)
+
 ### EAD 
 If you have a Employment Authorization Document (EAD), your A-number would be printed on the card. It may be called USCIS # on the card.
 Typically, for students who are on F1 visa and who have obtained OPT work permit, this is a easy way to get to the alien registration number.
 
-### I797 Approval documents
+![alien registration number]({{ site.url }}assets/images/posts/alien-registration-number-EAD.jpg)
+
+### I797 Approval notices
 
 In many cases USCIS prints the A# on the I797 approval notices. For example, USCIS assigns a A# for an immigrant whose form I140 is approved for employment based permanent residency. Such immigrant's H1b application I797 approval notices contain their A-number.
 
