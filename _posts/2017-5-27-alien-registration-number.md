@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Alien registration number - 4 ways to get yours 
-date: 2017-6-3
+title: Alien registration number - 4 ways to get yours
+date: 2017-6-03
 tags: USCIS
 comments: true
 description: All permanent immigrants should know their unique and personal Alien registration number. It can be easily obtained from one of these ways: Greencard, EAD, form I797 or directly ask USCIS.
