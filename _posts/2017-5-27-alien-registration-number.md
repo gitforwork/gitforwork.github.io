@@ -7,7 +7,7 @@ comments: true
 description: Alien registration number is an important immigration information to know. Look up your A-number from your USCIS documents or obtain it from your local USCIS office for FREE!
 ---
 
-Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. Alien registration number is also commonly referred to as "A-number" (A#) or USCIS number. 
+Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. It is also commonly referred to as "A-number" (A#) or USCIS number. 
 
 Example A-numbers look like, 
 0X0-0X0-0X0
@@ -19,7 +19,7 @@ Typically, USCIS assigns a A-number for immigrants applying for permanent reside
 
 ## How do I find my alien registration number?
 
-There are a few ways to get your alien registration number. 
+There are a few ways to get your number,
 
 ### Green card
 
@@ -43,13 +43,13 @@ If you are not able to find your A# in your existing immigration documents, you 
 
 ## Alien registration number H1b
 
-H1b visa is a non-immigrant visa, hence a H1b applicant doesn't typically have a alien registration number. However, USCIS assigns an
-alien registration number when the H1b recipient's I-140 is approved for green card. A# is typically printed on any H1b approvals notices (Form I-797) subsequent to the I140 approval. 
+H1b visa is a non-immigrant visa, hence a H1b applicant doesn't typically have an A-number. However, USCIS assigns an
+one when the H1b recipient's I-140 is approved for green card. A# is typically printed on any H1b approvals notices (Form I-797) subsequent to the I140 approval. 
 
 ## Alien registration number F1 visa
 
 F1 visa, like the H1b is not a permanent residency visa. Hence, there are no alien registration number assigned to a student. However,
-a A# is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
+it is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
 
-## Does alien registration number appear in I-94?
+## Does A# appear in I-94?
 No I-94 is not printed on the I-94. Not all immigrants have a A#. And even for the ones that have one, it's not printed on the I-94.
