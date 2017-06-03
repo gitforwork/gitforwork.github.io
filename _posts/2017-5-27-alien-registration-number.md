@@ -38,12 +38,12 @@ In many cases USCIS prints the A# on the I797 approval notices. For example, USC
 
 If you are not able to find your A# in your existing immigration documents, you can get it directly from USCIS through their [infopass appointment](https://my.uscis.gov/appointment). Since the alien registration number is personal and confidential information, USCIS does not share it over phone. So schedule an infopass appointment and be prepared to present your ID proof. Upon verification, USCIS will disclose your number. It's a free service from USCIS.
 
-##  H1b visa: Alien registration number 
+##  H1b visa: 
 
 H1b visa is a non-immigrant visa, hence a H1b applicant doesn't typically have an A-number. However, USCIS assigns an
 one when the H1b recipient's I-140 is approved for green card. A# is typically printed on any H1b approvals notices (Form I-797) subsequent to the I140 approval. 
 
-## F1 visa: Alien registration number
+## F1 visa:
 
 F1 visa, like the H1b is not a permanent residency visa. Hence, there are no A# assigned to a student. However,
 it is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
