@@ -1,7 +1,7 @@
 ---
 layout: post
-title: H1b amendment - Criteria, Cost, Duration - FAQ
-date: 2017-6-10
+title: H1b amendment - Criteria, Cost, Timeline - FAQ
+date: 2017-6-13
 tags: H1b
 comments: true
 description: If you are on H1b and are in the process of changing your job location you may need a H1b visa  amendment. Find out if you need one.
