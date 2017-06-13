@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Alien registration number - 4 ways to get yours!
-date: 2017-6-10
+date: 2017-6-13
 tags: USCIS
 comments: true
-description: All permanent immigrants should know their unique and personal Alien registration number. It can be easily obtained from one of these ways, Greencard, EAD, form I797 or directly ask USCIS.
+description: All permanent immigrants should know their unique and personal Alien registration number. Find yours in one of these 4 easy ways. Through your Greencard, EAD, form I797 or directly ask USCIS.
 ---
 
 Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. It is also commonly referred to as "A-number" (A#) or USCIS number. 
