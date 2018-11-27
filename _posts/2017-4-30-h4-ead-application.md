@@ -1,7 +1,7 @@
 ---
 layout: post
-title: H4 EAD application, documents, premium processing in 2017 - Complete guide
-date: 2017-5-7
+title: H4 EAD application, documents, premium processing in 2019 - Complete guide
+date: 2018-11-26
 tags: H4-EAD
 comments: true
 description: Is your H4 EAD application right? Avoid errors and expensive($$$) job delays. Join 1000s of successful applicants who used this 100% accurate guide!
