@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H4 EAD application, documents, premium processing in 2019 - Complete guide
+title: H4 EAD application, documents, premium processing (2019) - Complete guide
 date: 2018-11-26
 tags: H4-EAD
 comments: true
