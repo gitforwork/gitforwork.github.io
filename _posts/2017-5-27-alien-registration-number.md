@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find my Alien Registration Number? - 4 ways to get yours
+title: How to find my Alien Registration Number? Lookup from your H1b, I140 and more
 date: 2018-11-27
 tags: USCIS
 comments: true
@@ -16,7 +16,12 @@ Example A-numbers look like,
 
 ## How do I find my alien registration number?
 
-If you think you have a A#, you can obtain from your immigration documents like greencard, EAD etc. If you don't have any of them then you can directly ask USCIS.
+If you think you have a A#, you can obtain from your immigration documents like Green card, EAD etc. If you don't have any of them then you can directly ask USCIS.
+
+### H1b, I140 (Form I-797) Approval notices
+
+In many cases USCIS prints the USCIS# on the I797 approval notices. For example, USCIS assigns a A# for an immigrant whose form I140 is approved for employment based permanent residency. Such immigrant's H1b application I797 approval notices contain their A-number.
+I140 approval notice will also have the A# number.
 
 ### Green card
 
@@ -30,9 +35,6 @@ Typically, for students who are on F1 visa and who have obtained OPT work permit
 
 ![alien registration number]({{ site.url }}assets/images/posts/alien-registration-number-EAD.jpg)
 
-### Form I-797 Approval notices
-
-In many cases USCIS prints the USCIS# on the I797 approval notices. For example, USCIS assigns a A# for an immigrant whose form I140 is approved for employment based permanent residency. Such immigrant's H1b application I797 approval notices contain their A-number.
 
 ### USCIS Infopass appointment
 
