@@ -1,22 +1,19 @@
 ---
 layout: post
 title: Find Alien Registration Number on your H1b, I140 (with Samples) 
-date: 2018-12-1
+date: 2018-12-01
 tags: USCIS Alien Registration Number H1b
 comments: true
-description: Alien Registration Number can be easily found on your H1b, I140, F1, EAD, GC etc. If not, steps to directly ask USCIS.
+description: Alien Registration Number can be easily found on your H1b, I140, F1, EAD, GC etc. If not, you can also directly ask USCIS.
 ---
 
 Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. It is also commonly referred to as "A-number" (A#) or USCIS number. 
 
-Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). A-number is unique to an individual and is it constant throughout the lifetime of the immigrant. Hence, it's almost like a social security number for immigration. USCIS archives all the immigration applications, documents identified by the A-number and the same can be obtained by filing a USCIS FOIA through the A-number. 
-
-Example A-numbers look like, 
-000-000-773
+Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). A-number is unique to an individual, hence, it's almost like a social security number for immigration. USCIS archives all the immigration applications and documents identified by the A-number of the individual. And the same can be obtained by filing a USCIS FOIA through the A-number. 
 
 ## How do I find my alien registration number?
 
-If you think you have a Alien registration number, you can obtain from your immigration documents like Green card, EAD etc. If you don't have any of them then you can directly ask USCIS.
+If you think you have a Alien registration number, you can obtain from your immigration documents like H1b, I140, Green card, EAD etc. If you don't have any of them then you can directly ask USCIS.
 
 ## H1b, I140 (Form I-797) Approval notices
 
