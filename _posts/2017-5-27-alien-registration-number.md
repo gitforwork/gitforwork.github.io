@@ -30,7 +30,7 @@ Alien number is printed on the H1B approval notice for an individual who has a p
 ## Alien registration number on F1
 
 F1 visa, like the H1b is not a permanent residency visa. Hence, there are no A-number assigned to a student. However,
-it is assigned when the student applies for OPT EAD. The number is printed on the EAD card.
+one is generated when the student applies for OPT EAD. The number is printed on the EAD card.
 
 ## Alien registration number on EAD
 If you have a Employment Authorization Document (EAD), your A-number would be printed on the card. It may be called USCIS # on the card.
