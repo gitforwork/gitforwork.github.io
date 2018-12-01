@@ -2,24 +2,22 @@
 layout: post
 title: Find Alien Registration Number on your H1b, I140 (with Samples) 
 date: 2018-12-01
-tags: USCIS Alien Registration Number H1b
+tags: USCIS Alien-Registration-Number H1b
 comments: true
 description: Alien Registration Number can be easily found on your H1b, I140, F1, EAD, GC etc. If not, you can also directly ask USCIS.
 ---
 
 Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. It is also commonly referred to as "A-number" (A#) or USCIS number. 
 
-Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). A-number is unique to an individual, hence, it's almost like a social security number for immigration. USCIS archives all the immigration applications and documents identified by the A-number of the individual. And the same can be obtained by filing a USCIS FOIA through the A-number. 
-
 ## How do I find my alien registration number?
 
 If you think you have a Alien registration number, you can obtain from your immigration documents like H1b, I140, Green card, EAD etc. If you don't have any of them then you can directly ask USCIS.
 
-## H1b, I140 (Form I-797) Approval notices
+## Alien registration number on H1b Approval notices
 
-In many cases USCIS prints the Alien registration number on the I797 approval notices. For example, USCIS assigns a A# for an immigrant whose form I140 is approved for employment based permanent residency. Such immigrant's H1b application I797 approval notices contain their A-number. I140 approval notices will also have the A# number.
+Not all H1b visa holders have an assigned Alien registration number. USCIS assigns one only after the person's permanent immigration petition is approved. Until then Alien number cannot be obtained from your H1b documents. 
 
-However note that the H1b visa is a non-immigrant visa, hence a H1b applicant doesn't typically have an A-number. However, USCIS assigns an one when the H1b recipient's I-140 is approved for green card. It is typically printed on any H1b approvals notices (Form I-797) subsequent to the I140 approval. 
+Alien number is printed on the H1B approval notice for an individual who has a previously approved I-140. Generally, USCIS assigns a A# to a person after the person's permanent residency petition, such as I140 is approved. Any subsequent H1b extension, transfer approvals notices will contain the Alien registration number.  However, the A# obtained from the previous I140 approvals should have been included in the subsequent H1b applications. Otherwise, it will not be automatically included in the H1b approval notices.
 
 ## Green Card
 
@@ -46,3 +44,5 @@ it is assigned when the student applies for OPT EAD. The number is printed on th
 
 ## Does A# appear in I-94?
 No A# is not printed on the I-94. Not all immigrants have a USCIS#. And even for the ones that have one, it's not printed on the I-94.
+
+Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). A-number is unique to an individual, hence, it's almost like a social security number for immigration. USCIS archives all the immigration applications and documents identified by the A-number of the individual. And the same can be obtained by filing a USCIS FOIA through the A-number. 
