@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to find my Alien Registration Number? Lookup from your H1b, I140 and more
-date: 2018-11-27
-tags: USCIS
+title: Find Alien Registration Number on your H1b, I140 (with Samples) 
+date: 2018-12-1
+tags: USCIS Alien Registration Number H1b
 comments: true
-description: All permanent immigrants should know their unique and personal Alien Registration Number. Find yours in one of these 4 easy ways. Through your Greencard, EAD, form I797 or directly ask USCIS.
+description: Alien Registration Number can be easily found on your H1b, I140, F1, EAD, GC etc. If not, steps to directly ask USCIS.
 ---
 
 Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. It is also commonly referred to as "A-number" (A#) or USCIS number. 
