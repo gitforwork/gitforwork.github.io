@@ -51,10 +51,10 @@ If you have a Green Card, your A-number will be printed on the card. Some old ca
 
 ## Ask USCIS Alien registration number 
 
-If you are not able to find your USCIS# in your existing immigration documents, you can get it directly from USCIS through their [infopass appointment](https://my.uscis.gov/appointment). Since the alien registration number is personal and confidential information, USCIS does not share it over phone. So schedule an infopass appointment and be prepared to present your ID proof. Upon verification, USCIS will disclose your number. It's a free service from USCIS.
+If you are not able to find your USCIS number in your existing immigration documents, you can get it directly from USCIS through their [infopass appointment](https://my.uscis.gov/appointment). Since the USCIS number is personal and confidential information, USCIS does not share it over phone. So schedule an infopass appointment and be prepared to present your ID proof. Upon verification, USCIS will disclose your number. It's a free service from USCIS.
 
 
-## Does Alien number appear in I-94?
-No Alien registration number is not printed on the I-94. Not all immigrants have a USCIS#. And even for the ones that have one, it's not printed on the I-94.
+## Does A# appear in I-94?
+No A# is not printed on the I-94. Not all immigrants have a USCIS#. And even for the ones that have one, it's not printed on the I-94.
 
 Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). A-number is unique to an individual, hence, it's almost like a social security number for immigration. USCIS archives all the immigration applications and documents identified by the A-number of the individual. And the same can be obtained by filing a USCIS FOIA through the A-number. 
