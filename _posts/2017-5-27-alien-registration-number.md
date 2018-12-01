@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Find Alien Registration Number on your H1b, I140 (with Samples) 
+title: Find Alien Registration Number on your H1b, F1, I140 (with Samples) 
 date: 2018-12-01
 tags: USCIS Alien-Registration-Number H1b
 comments: true
-description: Alien Registration Number can be easily found on your H1b, I140, F1, EAD, GC etc. If not, you can also directly ask USCIS.
+description: How to find your Alien Registration Number on your visa documents like H1b, I140, F1, EAD, Green Card. You can also ask USCIS for your document number.
 ---
 
 Alien registration number is an unique 7-9 digit unique number assigned by USCIS to permanent immigrants of the U.S. It is also commonly referred to as "A-number" (A#) or USCIS number. 
@@ -13,7 +13,15 @@ Alien registration number is an unique 7-9 digit unique number assigned by USCIS
 
 If you think you have a Alien registration number, you can obtain it from your immigration documents like H1b, I140, Green card, EAD etc. If you don't have any of them, then you can directly ask USCIS.
 
-## Alien registration number on H1b Approval notices
+#### Options
+ - [Alien registration number on H1b](#alien-registration-number-on-h1b)
+ - [Alien registration number on I140](#alien-registration-number-on-i140)
+ - [Alien registration number on F1](#alien-registration-number-on-f1)
+ - [Alien registration number on EAD](#alien-registration-number-on-ead)
+ - [Alien registration number on Green Card](#alien-registration-number-on-green-card)
+ - [Ask USCIS](#ask-uscis)
+ 
+## Alien registration number on H1b
 
 Not all H1b visa holders have an assigned Alien registration number. USCIS assigns one, only after the person's permanent immigration petition is approved. Until then, Alien number cannot be obtained from your H1b documents. 
 
