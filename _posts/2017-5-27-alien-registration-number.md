@@ -27,6 +27,8 @@ Not all H1b visa holders have an assigned Alien number. USCIS assigns one, only 
 
 Alien number is printed on the H1B approval notice for an individual who has a previously approved I-140 application. Generally, USCIS assigns A# to a person after the person's permanent residency petition, such as I140 is approved. Any subsequent H1b extension, transfer approvals notices will contain the Alien registration number.  The number can be found above the person's name in the "Beneficiary"section. It will be of the format "A123 456 789"
 
+![alien registration number-h1b]({{ site.url }}assets/images/posts/alien-registration-number-h1b.jpg)
+
 However, the Alien number obtained from the previous I140 approvals should have been included in the subsequent H1b applications to USCIS. Otherwise, it will not be automatically printed on the H1b approval notices. And H1b application receipt notices will not have it.
 
 ## Alien registration number on F1
