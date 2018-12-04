@@ -1,10 +1,10 @@
 ---
 layout: post
-title: H4 EAD SSN application
-date: 2016-12-18
+title: Your top 15 questions answered for H4 EAD SSN recipients
+date: 2018-12-04
 tags: SSN H4 EAD
 comments: true
-description: Frequently asked questions while applying SSN by H4 EAD recipients
+description: Like 1000s of others, you have questions while applying SSN for H4 EAD recipients. Start your job sooner by avoiding simple mistakes and better planning
 ---
 
 You may have obtained your H4 EAD and getting ready to work. But before that you would have to
