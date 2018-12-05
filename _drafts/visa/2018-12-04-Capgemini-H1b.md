@@ -4,8 +4,7 @@ title: Capgemini H1b Filings,Salary database - 92% Approval rate in 2018
 date: 2018-12-5
 tags: H1b Capgemini
 comments: true
-description: Capgemini filed for 2345 H1b LCA applications in 2018. Out of which 234 H1b petitions were approved. 
-5345 LCA applications in the last 3 years
+description: Capgemini filed for 2345 H1b LCA applications in 2018. Out of which 234 H1b petitions were approved. 5345 LCA applications in the last 3 years
 ---
 
 Data sourced from Labor condition approvals
