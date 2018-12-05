@@ -8,11 +8,20 @@ description: Capgemini filed for 2345 H1b LCA applications in 2018. Out of which
 5345 LCA applications in last 3 years
 ---
 
+
 Data sourced from Labor condition approvals
 
-Year |  Applications | Approved Petitions | Approved % 
+Year |  Applications | Approvals | Estimated Approval rate 
 -----|---------------|--------------------|----------
 2018  | 687566       | 5754     | 97%  
 2017  | 7966         | 2421     | 91%  
 2018  | 7867         | 23132    | 92%  
+
+USCIS Activity | What it means | 2017 | 2016
+---------------|---------------|------|-----
+Check encashing | USCIS begins encashing the check (H1b fees) for petitions 
+selected in the lottery | Check encashments are reported | |
+H1b receipts | USCIS starts sending H1b receipt number for candidates selected in the lottery | H1b receipts are reported | |
+Data Entry | USCIS completes data entry of lottery selected petitions. At this time USCIS starts returning un-selected petitions | May 3, 2017  | May 2, 2016 |
+Petition return | USCIS completes returning all the un-selected petitions | ?? | July 8, 2016 |
 
