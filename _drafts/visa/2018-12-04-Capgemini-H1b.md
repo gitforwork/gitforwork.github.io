@@ -11,7 +11,7 @@ Data sourced from Labor condition approvals.
 
 
 Year | Applications | Avg Salary | Approvals | Estimated Approval rate
------|------------ -|------------|-----------|-----------------
+-----|------------ -|------------|-----------|--------------------------
 2018 | 687566       | 78,780     | 5754      | 97%  
 
 
