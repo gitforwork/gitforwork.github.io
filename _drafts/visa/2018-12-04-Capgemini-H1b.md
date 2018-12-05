@@ -24,7 +24,7 @@ Software Engineer (56) | 90,4567
 
 
 Job Title | Salary | Location | Application DATE | Start Date | Status
-----------|-----------|------------|-----------|-------------|------------|-------------
+----------|------------|-----------|-------------|------------|-------------
 AEM ARCHITECT LEAD | 125,000 | WESTCHESTER, IL | 01/24/2018 | 02/12/2018 | CERTIFIED
 APPLICATION CONSULTANT 2 | 82,100 | TOLEDO, OH | 01/03/2018 | 01/03/2018 | CERTIFIED
 APPLICATION CONSULTANT 2 | 84,660 | OAK BROOK, IL | 01/30/2018 | 02/20/2018 | CERTIFIED
