@@ -13,10 +13,10 @@ Also, we may have to do something different to stand out from the crowd. Just li
 
 Data sourced from Labor condition approvals
 
-Year |  Applications | Approvals | Estimated Approval rate 
+Year |  Applications | Avg Salary | Approvals | Estimated Approval rate 
 -----|---------------|----------|----------
-2018 | 687566       | 5754      | 97%  
-2017 | 7966         | 2421      | 91%  
+2018 | 687566       | 78,780 | 5754      | 97%  
+2017 | 7966         | 68,709 | 2421      | 91%  
 
 
 Year |  Estimated Transfers | Estimated Extensions | Other types
@@ -24,3 +24,4 @@ Year |  Estimated Transfers | Estimated Extensions | Other types
 2018 | 687566       | 5754     | 6878 
 2017 | 7966         | 2421     | 896
 
+Dump everything here. Let's start there, not worry about filters
