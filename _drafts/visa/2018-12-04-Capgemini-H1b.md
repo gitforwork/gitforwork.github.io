@@ -7,11 +7,12 @@ comments: true
 description: Capgemini filed for 2345 H1b LCA applications in 2018. Out of which 234 H1b petitions were approved. 5345 LCA applications in the last 3 years
 ---
 
-Data sourced from Labor condition approvals
+Data sourced from Labor condition approvals.
+
 
 Year | Applications | Avg Salary | Approvals | Estimated Approval rate
------|---------------|----------|----------
-2018 | 687566    | 78,780 | 5754     | 97%  
+-----|------------ -|------------|-----------|-----------------
+2018 | 687566       | 78,780     | 5754      | 97%  
 
 
 Year |  Estimated Transfers | Estimated Extensions | Other types
