@@ -4,24 +4,21 @@ title: Capgemini H1b Filings,Salary database - 92% Approval rate in 2018
 date: 2018-12-5
 tags: H1b Capgemini
 comments: true
-description: Capgemini filed for 2345 H1b LCA applications in 2018. Out of which 234 H1b petitions were approved. 5345 LCA applications in the last 3 years
+description: Capgemini filed for 6733 H1b LCA applications in 2018. Out of which xxx H1b petitions were approved. 18732 LCA applications in the last 3 years
 ---
-
-Data sourced from Labor condition approvals.
-
 
 Year | Applications | Avg Salary | Approvals | Estimated Approval rate
 -----|--------------|------------|-----------|--------------------------
-2018 | 687566       | 78,780     | 5754      | 97% 
+2018 | 6733       | 81,059     | xxx         | yy% 
 
 
-Year |  Estimated Transfers | Estimated Extensions | Other types
------|----------------------|----------------------|-------------
-2018 | 687566       | 5754     | 6878 
+Year |  Estimated H1b Transfers | Estimated H1b Extensions 
+-----|--------------------------|-------------------------
+2018 | 3500                     | 2714                 
 
 
 Job Title |  Avg Salaries
------|-------------------|
+----------|-------------------|
 Sr.Software Engineer (25) | 123,4567
 Software Engineer (56) | 90,4567
 
