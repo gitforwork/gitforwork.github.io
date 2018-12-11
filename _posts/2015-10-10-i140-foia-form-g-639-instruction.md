@@ -10,7 +10,7 @@ description: Instruction to fill form g-639 to request approved I140
 This post contains information about how to fill the form [G-639](http://www.uscis.gov/sites/default/files/files/form/g-639.pdf).
 
 ### The form asks to give the purpose? Can I skip it?
- Yes. It's not required.
+ Yes. It's not required. once more
 
 ### The form asks for a A-number? What is it?
  Alien number (A#) is a number USCIS uniquely assigns to you after your I140 is approved. This number is carried all the way through
