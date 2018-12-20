@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find Alien Registration Number on your H1b, F1, I140 (with Samples) 
-date: 2018-12-01
+date: 2018-12-20
 tags: USCIS Alien-Registration-Number H1b
 comments: true
 description: How to find your Alien Registration Number on your visa documents like H1b, I140, F1, EAD, Green Card. You can also ask USCIS for your document number.
@@ -33,8 +33,9 @@ However, the Alien number obtained from the previous I140 approvals should have 
 
 ## Alien registration number on F1
 
-F1 visa, like the H1b is not a permanent residency visa. Hence, there are no A-number assigned to a student. However,
-one is generated when the student applies for OPT EAD. The number is printed on the EAD card.
+Not all F1 visa holders have an assigned Alien number. USCIS assigns one, only after the student's OPT EAD card is approved. 
+The number is printed on the EAD card. If the student transfers to a H1b visa, then the A-number can be found on the subsequent approval notices if it was included as part of the application. The A-number assigned to a student tends to be temporary. If the student at some point applied for a permanent residency (green card), a new A-number will most likely be assigned.
+
 
 ## Alien registration number on EAD
 If you have a Employment Authorization Document (EAD), your A-number would be printed on the card. It may be called USCIS # on the card.
@@ -61,4 +62,4 @@ If you are not able to find your USCIS number in your existing immigration docum
 ## Does A# appear in I-94?
 No A# is not printed on the I-94. Not all immigrants have a USCIS#. And even for the ones that have one, it's not printed on the I-94.
 
-Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). A-number is unique to an individual, hence, it's almost like a social security number for immigration. USCIS archives all the immigration applications and documents identified by the A-number of the individual. And the same can be obtained by filing a USCIS FOIA through the A-number. 
+Typically, USCIS assigns a A-number for immigrants applying for permanent residency (green card). It is also assigned in other situations like at the time of applying for employment authorization document (EAD). USCIS archives all the immigration applications and documents identified by the A-number of the individual. And the same can be obtained by filing a USCIS FOIA through the A-number. 
