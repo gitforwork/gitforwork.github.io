@@ -34,7 +34,9 @@ However, the Alien number obtained from the previous I140 approvals should have 
 ## Alien registration number on F1
 
 Not all F1 visa holders have an assigned Alien number. USCIS assigns one, only after the student's OPT EAD card is approved. 
-The number is printed on the EAD card. If the student transfers to a H1b visa, then the A-number can be found on the subsequent approval notices if it was included as part of the application. The A-number assigned to a student tends to be temporary. If the student at some point applied for a permanent residency (green card), a new A-number will most likely be assigned.
+The number is printed on the EAD card. If the student transfers to a H1b visa, then the A-number can be found on the subsequent approval notices if it was included as part of the application. 
+
+The A-number assigned to a student tends to be not permanent. If the student at some point applies for a permanent residency (green card), a new A-number will most likely be assigned.
 
 
 ## Alien registration number on EAD
